@@ -1,4 +1,12 @@
 this is bob!
+<<<<<<< HEAD
   o     <i love cheese>
  /|\
  / \
+=======
+  o  < hi. )
+ /|\
+ / \ 
+ 
+bob says hi.
+>>>>>>> bfc8469b87db7c4db670d304f2197a4089a7b52a
